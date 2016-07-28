@@ -129,7 +129,7 @@ This keeps users engaged and allows administrators to focus on more important th
             e.preventDefault();
             var post_data = {}
             post_data.mailto = "ardalan@mobilefringe.com";
-            post_data.subject = "LM Sign up";
+            post_data.subject = "Marketing Intern Sign up";
             custom = {};
             custom.name = $('#full_name').val();
             custom.email = $('#email').val()
