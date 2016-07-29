@@ -20,7 +20,7 @@
     <div class="custom_backdrop"></div>
     <div class="headline">
         <div class="main_container text-center">
-            <h2 class="heading">Marketing Intern</h2>
+            <h2 class="heading">Mall Maverick Intern</h2>
             <p class="headline_desc">
                Gone are the days of marketing managers receiving emails and adding promos in manually.
             </p>
@@ -36,7 +36,7 @@
             <div class="col-md-6">
                 <h2 class="heading">How does it work?</h2>
                 <p class="desc">
-                   The Marketing Intern feature will source promotions and/or jobs  postings directly from users from the national retailers head office and will be posted by these official representatives directly onto your centre’s website and digital channels.
+                   The Mall Maverick Intern feature will source promotions and/or jobs  postings directly from users from the national retailers head office and will be posted by these official representatives directly onto your centre’s website and digital channels.
 
                 </p>
                 <p class="desc">
@@ -111,7 +111,7 @@ This keeps users engaged and allows administrators to focus on more important th
                         </div>
                         <div class="col-md-12 text-center">
                             <input type="submit" value="START NOW" class="send_btn" />
-                            <h2 id="signup_confirmed">Thank you for signing up for Marketing Intern</h2>
+                            <h2 id="signup_confirmed">Thank you for signing up for Mall Maverick Intern</h2>
                         </div>
                     </div>
                 </form>
@@ -129,7 +129,7 @@ This keeps users engaged and allows administrators to focus on more important th
             e.preventDefault();
             var post_data = {}
             post_data.mailto = "ardalan@mobilefringe.com";
-            post_data.subject = "Marketing Intern Sign up";
+            post_data.subject = "Mall Maverick Intern Sign up";
             custom = {};
             custom.name = $('#full_name').val();
             custom.email = $('#email').val()
